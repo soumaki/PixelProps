@@ -153,8 +153,8 @@ ro.build.type=user
 ro.build.user=android-build
 ro.build.host=abfarm-00923
 ro.build.tags=release-keys
-ro.build.flavor=oriole-user
-ro.build.product=oriole
+ro.build.flavor=bluejay-user
+ro.build.product=bluejay
 ro.build.description=google/bluejay/bluejay:13/TP1A.220624.021.A1/8893963:user/release-keys
 # end build properties
 
